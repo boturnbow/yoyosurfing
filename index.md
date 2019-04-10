@@ -2,4 +2,4 @@
 
 Come to Escape Three Points and surf the best waves in Ghana!
 
-![Loshe](/assests/images/loshe.jpg)
+![Loshe](/assets/images/loshe.jpg)
