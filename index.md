@@ -1,11 +1,21 @@
 ## Yo Yo Surfing!
 
-Come to Escape Three Points and surf the best waves in Ghana!
+Come to Cape Three Points and surf the best waves in Ghana!
 
-![Loshe](/assets/images/loshe.jpg)
+![Loshe](/assets/images/loshe.jpg){: .callout}
 
-![Loshe](/assets/images/surf.jpg)
+### Learn To Surf
 
-![Loshe](/assets/images/kids.jpg)
+We can teach you how to surf starting with gentle waves and progressing to bigger!
 
-![Loshe](/assets/images/bigwave.jpg)
+![Kids](/assets/images/kids.jpg)
+
+### Surf Safari
+
+And if you are already experienced, we can take you to some of the best waves in Ghana. Right beside our village is a great wave near the lighthouse called **The Point**. And for something bigger, we can take a canoe trip to **Paradise Point**.
+
+![Surf](/assets/images/surf.jpg)
+
+![Big Wave](/assets/images/bigwave.jpg)
+
+![Canoe](/assets/images/canoe.jpg)
