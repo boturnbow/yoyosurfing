@@ -20,4 +20,8 @@ And if you are already experienced, we can take you to some of the best waves in
 
 ### Contact Us
 
+We are Evans and Evans - your two surf instructors in Cape Three Points, Ghana! :)
+
 **WhatsApp: +233 50 352 7110**
+**WhatsApp: +233 55 177 9256**
+**WhatsApp: +233 55 417 9674**
