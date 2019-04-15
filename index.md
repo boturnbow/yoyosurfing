@@ -17,5 +17,3 @@ And if you are already experienced, we can take you to some of the best waves in
 ![Surf](/assets/images/surf.jpg)
 
 ![Canoe](/assets/images/canoe.jpg)
-
-![Big Wave](/assets/images/bigwave.jpg)
