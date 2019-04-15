@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.floatright {
-  float: right;
+.page-header {
+  background-image: url(/assets/images/bigwave.jpg);
+  background-position: center;
 }
