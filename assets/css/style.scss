@@ -4,7 +4,16 @@
 @import "{{ site.theme }}";
 
 .page-header {
+  background-color: #edfe02;
   background-image: url(/assets/images/bigwave.jpg);
   background-position: center;
   background-repeat: no-repeat;
+}
+
+.project-name {
+  margin-top: 7em;
+}
+
+.project-tagline {
+  margin-bottom: 0;
 }
